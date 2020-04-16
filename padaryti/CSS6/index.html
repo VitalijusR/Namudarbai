@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS6</title>
+<link href="index.css" rel="stylesheet">
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Asmeninė informacija</legend>
+            <div class="names">
+                <label for="fname">Vardas:</label>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname">Pavardė:</label>
+                <input type="text" id="lname" name="lname">
+          </div>
+        </fieldset>
+        </form>
+        <fieldset>
+            <legend>Klausimai</legend>
+            <label for="info">Kaip sužinojote apie mus?</label>
+            <select id="info">
+            <option value="Google">Google</option>
+            <option value="Facebook">Facebook</option>
+            <option value="Instagram">Instagram</option>
+            <option value="Friends">Friends</option>
+            </select>
+            <br>
+            <br>
+            <label>Ar apsilankysite vėl?</label><br>
+            <label for="Taip">Taip</label>
+            <input type="radio" id="Taip" value="Taip" name="options">
+            <label for="Ne">Ne</label>
+            <input type="radio" id="Ne" value="Ne" name="options">
+            <label for="Galbūt">Galbūt</label>
+            <input type="radio" id="Galbūt" value="Galbūt" name="options">
+            <br>
+            <br>
+            <label>Ką manote apie kursą?</label><br>
+            <textarea placeholder="Rašykite viską ką galvojate" rows="10" cols="160"></textarea>
+            <br>
+            <br>
+            <label>Pažymėkite programavimo/žymėjimo kalbas su kuriomis esate susipažinę:</label>
+        <form>
+            <div class="firstbox">
+                <input type="checkbox" id="box1">
+                <label for="box1">C#</label>
+            </div>
+            <div class="secondbox">
+                <input type="checkbox" id="box2">
+                <label for="box2">JAVA</label>
+            </div>
+            <div>
+                <input type="checkbox" id="box3">
+                <label for="box3">PHP</label>
+            </div>
+            <br>
+            <div class="bl2">
+                <input type="checkbox" id="box4">
+                <label for="box4">HTML</label>
+            </div>
+            <div class="thirdbox">
+                <input type="checkbox" id="box5">
+                <label for="box5">CSS</label>
+            </div>
+            <div>
+                <input type="checkbox" id="box6">
+                <label for="box6">JavaScript</label>
+            </div>
+            <br>
+            <div class>
+                <input type="checkbox" id="box7">
+                <label for="box7">Pyhton</label>
+            </div>
+            <div>
+                <input type="checkbox" id="box8">
+                <label for="box8">Ruby</label>
+            </div>
+            <br>
+                <button type="submit"
+                value="submit">
+                    Siūsti
+                </button>
+        </form>
+    </fieldset>
+</body>
+</html>

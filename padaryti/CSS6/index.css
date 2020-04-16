@@ -1,0 +1,48 @@
+button, input, select, textarea{
+    font-family:sans-serif;
+    font-size: 14px;
+    background-color:beige;
+}
+
+.names{
+    display: inline-block;
+    text-align: right;
+}
+
+fieldset{
+    background-color: khaki;
+}
+
+legend{
+    font-size: 25px;
+    }
+
+form input{
+    vertical-align: middle;
+}
+
+label{
+    display: inline-block;
+    flex-direction: right;
+}
+
+body div{
+    display: inline-block;
+    font-size: bold;
+}
+
+.firstbox label{
+    padding-right: 26px;
+}
+
+.secondbox label{
+    padding-right: 0px;
+}
+    
+.thirdbox label{
+    padding-right: 7px;
+}
+
+button{
+    margin-top: 40px;
+}

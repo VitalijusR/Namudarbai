@@ -1,0 +1,29 @@
+body{
+    margin-left: 26px;
+    margin-top:-10px;
+}
+
+h1{
+    color:#ff0f73;
+    font-size: 54px;
+    font-family: sans-serif
+}
+
+h2{
+    color:#ff0f73;
+    font-size:42px;
+    font-family: sans-serif;
+}
+
+.Writing-font{
+    font-size: 26px;
+    font-weight: 549;
+    font-family: sans-serif;
+
+}
+
+.Change-font{
+    font-family:sans-serif;
+    color:#737373;
+    font-size: 26px;
+}
