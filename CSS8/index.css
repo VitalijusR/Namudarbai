@@ -1,0 +1,225 @@
+h1{
+    font-size:30px;
+    font-weight: :bold;
+}
+h2{
+    font-size: 22px;
+}
+
+.registration-form{
+    padding:22px;
+    width:39.7%;
+    background-color: #ffeeba;
+    position: static;
+    margin-bottom:6px;
+}
+
+label{
+    display:block;
+    margin: 0px;
+
+}
+div{
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+input[type=text]{
+    display: block;
+    justify-content: center;
+    width: 45%;
+    padding: 10px 10px;
+    margin-left:212px;
+    margin-top:-27px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+
+p{
+    padding:15px;
+    padding-left: 0px;
+    font-size: 16px;
+}
+
+p span{
+    display: block;
+}
+
+input[type=button]{
+    width:555px;
+    padding: 10px; 10px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    padding-left:0px;
+    background-color:   #cccccc;
+}
+
+.alreadyregistered{
+    width:39.8%;
+    height: 35%;
+    padding-left:22px;
+    position: static;
+    background-color: #cafce9;
+    
+}
+
+.firstrow{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-bottom: 0px solid black;
+    margin-bottom: -4px;
+    padding:1px;
+    width:98.6%;
+    height:38px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#first{
+    padding-right: 235px;
+    padding-left: 240px;
+    padding-top: 10px;
+    background-color: #adc7ff;
+}
+
+#second{
+     padding-top: 10px;
+    padding-right: 5px;
+    background-color: #adc7ff;
+}
+
+#third{
+     padding-top: 10px;
+    background-color:#adc7ff;
+}
+
+.secondrow1{
+    position: static;
+    border: 2px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    width:65%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left:-20px;
+    margin-top:-16px;
+    text-align: left;
+    vertical-align: middle;
+    background-color: #cafce9;
+}
+
+.secondrow2{
+    border: 2px solid black;
+    border-right: 2px solid black;
+    border-left:2px solid black;
+    border-top:1px solid black;
+    width:8.2%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left:490px;
+    margin-top:-44px;
+    padding-left: -8px;
+    background-color: #cafce9;
+}
+
+.secondrow3{
+    border: 2px solid black;
+    border-right: 2px solid black;
+    border-left:2px solid black;
+    border-top:1px solid black;
+    border-bottom: 0px solid black;
+    width:16.0%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 590px;
+    margin-top:-44px;
+    padding-left: 5px;
+    background-color: #cafce9;
+}
+    
+.thirdrow1{
+    position: static;
+    border: 2px solid black;
+    border-left: 3px solid black;
+    border-right:1px solid black;
+    border-top: 0px solid black;
+    width:61.5%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left:0px;
+    margin-top:-18px;
+    text-align: left;
+    vertical-align: middle;
+    background-color: #cafce9;
+}
+
+.thirdrow2{
+    border: 2px solid black;
+    border-right: 2px solid black;
+    border-left:2px solid black;
+    border-top: 0px solid black;
+    width:7.6%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 510px;
+    margin-top: -43px;
+    padding-left: -8px;
+    background-color: #cafce9;
+}
+
+.thirdrow3{
+    border: 2px solid black;
+    border-right: 2px solid black;
+    border-left:2px solid black;
+    border-top: 2px solid black;
+    width:15.2%;
+    height:1px;
+    position: static;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 610px;
+    margin-top:-45px;
+    padding-left: 5px;
+    background-color: #cafce9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
